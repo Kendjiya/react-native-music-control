@@ -14,8 +14,8 @@ import com.facebook.react.bridge.ReactApplicationContext;
 
 import java.util.Map;
 
-import android.support.v4.app.NotificationCompat;
-import android.support.v4.app.NotificationManagerCompat;
+import androidx.core.app.NotificationCompat;
+import androidx.core.app.NotificationManagerCompat;
 
 import static com.tanguyantoine.react.MusicControlModule.NOTIFICATION_ID;
 
